@@ -28,7 +28,7 @@ public class Assgn134 {
 		driver.findElement(By.id("ap_email")).sendKeys("9970398616");
 		driver.findElement(By.id("continue")).click();
 		
-		driver.findElement(By.id("ap_password")).sendKeys("Ad@#$2023");
+		driver.findElement(By.id("ap_password")).sendKeys("2023");
 		driver.findElement(By.id("signInSubmit")).click();
 		
 		//Thread.sleep(2000);
